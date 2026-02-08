@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RyanaQr
-- 👀 I’m interested in UIAutomation, MachineLearning, DeepLearning
-- 🌱 I’m currently learning TypeScript,tensorflow
-- 💞️ I’m looking to collaborate on health-issues on Unsupervised Learning
+- 👀 I’m interested in DataScience, UIAutomation, MachineLearning, DeepLearning
+- 🌱 I’m currently learning PySpark,tensorflow, Hadoop
+- ✨ I also worked on Data Analytics and Data Engineering which you can find in my repositories
+- 💞️ I’m deploying ML techniques on finance, health-care and tech sectors for analysis and prediction
 - 📫 How to reach me? quadirryana@gmail.com
 
 <!---
