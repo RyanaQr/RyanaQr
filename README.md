@@ -1,12 +1,12 @@
 # 👋 Hi, I’m @RyanaQr [Ryana Quadir]
 
-🚀 Data Scientist | Machine Learning Enthusiast | Business Problem Solver
+🚀 Data Scientist | Machine Learning Enthusiast | Software QA Engineer | Business Problem Solver
 
 ---
 
 ## 💡 About Me
 
-I am a data-driven professional with a strong passion for transforming data into actionable insights. I specialize in applying machine learning, Deep Learning, statistical modeling, and data analytics to solve real-world business problems.
+I am a data-driven professional with a strong passion for transforming data into actionable insights. I specialize in applying machine learning, Deep Learning, statistical modeling, and data analytics to solve real-world business problems. I have 
 
 * 📊 Experienced in data analysis, predictive modeling, and visualization
 * 🤖 Interested in AI/ML and Generative AI applications
